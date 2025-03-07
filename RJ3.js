@@ -1,5 +1,5 @@
 class Empresa {
-    #cnpj;
+    #cnpj
     constructor(razaoSocial, nomeFantasia, cnpj, endereco) {
         this.endereco = endereco;
         this.nomeFantasia = nomeFantasia;
